@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/14-02-principles-of-macroeconomics-spring-2023/1402-sp23-lecture-10-v2_360p_16_9.mp4
+file: courses/introduction-to-macroeconomics/1402-sp23-lecture-10-v2_360p_16_9.mp4
 file_size: 77413923
 file_type: video/mp4
 image_metadata:
