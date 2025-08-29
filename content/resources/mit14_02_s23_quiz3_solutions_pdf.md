@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/introduction-to-macroeconomics/mit14_02_s23_quiz3_solutions.pdf
+file: /ol-ocw-studio-app/courses/14-02-principles-of-macroeconomics-spring-2023/mit14_02_s23_quiz3_solutions.pdf
 file_size: 242571
 file_type: application/pdf
 image_metadata:
